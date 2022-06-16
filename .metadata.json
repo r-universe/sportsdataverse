@@ -1,0 +1,22 @@
+[
+  {
+    "package": "cfbfastR",
+    "oncran": true
+  },
+  {
+    "package": "fastRhockey",
+    "oncran": true
+  },
+  {
+    "package": "hoopR",
+    "oncran": true
+  },
+  {
+    "package": "sportyR",
+    "oncran": true
+  },
+  {
+    "package": "wehoop",
+    "oncran": true
+  }
+]

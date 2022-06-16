@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cfbfastR"]
+	path = cfbfastR
+	url = https://github.com/sportsdataverse/cfbfastr
+	shallow = true
+	registered = true
+[submodule "fastRhockey"]
+	path = fastRhockey
+	url = https://github.com/sportsdataverse/fastrhockey
+	shallow = true
+	registered = true
+[submodule "hoopR"]
+	path = hoopR
+	url = https://github.com/sportsdataverse/hoopr
+	shallow = true
+	registered = true
+[submodule "sportyR"]
+	path = sportyR
+	url = https://github.com/sportsdataverse/sportyr
+	shallow = true
+	registered = true
+[submodule "wehoop"]
+	path = wehoop
+	url = https://github.com/sportsdataverse/wehoop
+	shallow = true
+	registered = true
