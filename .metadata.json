@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "oddsapiR",
+    "oncran": true
+  },
+  {
     "package": "sportyR",
     "oncran": true
   },
