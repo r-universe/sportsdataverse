@@ -4,19 +4,11 @@
     "oncran": true
   },
   {
-    "package": "fastRhockey",
-    "oncran": true
-  },
-  {
     "package": "hoopR",
     "oncran": true
   },
   {
     "package": "oddsapiR",
-    "oncran": true
-  },
-  {
-    "package": "sportyR",
     "oncran": true
   },
   {
