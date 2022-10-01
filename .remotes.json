@@ -1,0 +1,8 @@
+[
+  {
+    "package": "gridtext",
+    "url": "https://github.com/wilkelab/gridtext",
+    "via": ["cfbplotR"],
+    "from": "cfbplotR"
+  }
+]
