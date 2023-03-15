@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "wehoop",
+    "package": "hoopR",
     "oncran": true
   },
   {
@@ -16,11 +16,11 @@
     "oncran": true
   },
   {
-    "package": "hoopR",
+    "package": "sportyR",
     "oncran": true
   },
   {
-    "package": "sportyR",
+    "package": "wehoop",
     "oncran": true
   }
 ]
