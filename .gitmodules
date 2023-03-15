@@ -13,9 +13,9 @@
 	url = https://github.com/sportsdataverse/fastrhockey
 	shallow = true
 	registered = true
-[submodule "hoopR"]
-	path = hoopR
-	url = https://github.com/sportsdataverse/hoopr
+[submodule "wehoop"]
+	path = wehoop
+	url = https://github.com/sportsdataverse/wehoop
 	shallow = true
 	registered = true
 [submodule "oddsapiR"]
@@ -23,13 +23,13 @@
 	url = https://github.com/sportsdataverse/oddsapir
 	shallow = true
 	registered = true
+[submodule "hoopR"]
+	path = hoopR
+	url = https://github.com/sportsdataverse/hoopr
+	shallow = true
+	registered = true
 [submodule "sportyR"]
 	path = sportyR
 	url = https://github.com/sportsdataverse/sportyr
-	shallow = true
-	registered = true
-[submodule "wehoop"]
-	path = wehoop
-	url = https://github.com/sportsdataverse/wehoop
 	shallow = true
 	registered = true
