@@ -38,11 +38,6 @@
 	url = https://github.com/jacklich10/gamezoneR
 	shallow = true
 	registered = true
-[submodule "toRvik"]
-	path = toRvik
-	url = https://github.com/andreweatherman/toRvik
-	shallow = true
-	registered = true
 [submodule "baseballr"]
 	path = baseballr
 	url = https://github.com/billpetti/baseballr
@@ -76,11 +71,6 @@
 [submodule "worldfootballR"]
 	path = worldfootballR
 	url = https://github.com/jaseziv/worldfootballR
-	shallow = true
-	registered = true
-[submodule "ggshakeR"]
-	path = ggshakeR
-	url = https://github.com/abhiamishra/ggshakeR
 	shallow = true
 	registered = true
 [submodule "soccerAnimate"]
