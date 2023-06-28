@@ -1,105 +1,64 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/sportsdataverse/universe
-	shallow = true
 	branch = HEAD
 [submodule "cfbfastR"]
 	path = cfbfastR
 	url = https://github.com/sportsdataverse/cfbfastR
-	shallow = true
-	registered = true
 [submodule "cfbplotR"]
 	path = cfbplotR
 	url = https://github.com/sportsdataverse/cfbplotR
-	shallow = true
-	registered = true
 [submodule "cfb4th"]
 	path = cfb4th
 	url = https://github.com/sportsdataverse/cfb4th
-	shallow = true
-	registered = true
 [submodule "puntr"]
 	path = puntr
 	url = https://github.com/Puntalytics/puntr
-	shallow = true
-	registered = true
 [submodule "hoopR"]
 	path = hoopR
 	url = https://github.com/sportsdataverse/hoopR
-	shallow = true
-	registered = true
 [submodule "wehoop"]
 	path = wehoop
 	url = https://github.com/sportsdataverse/wehoop
-	shallow = true
-	registered = true
 [submodule "gamezoneR"]
 	path = gamezoneR
 	url = https://github.com/jacklich10/gamezoneR
-	shallow = true
-	registered = true
 [submodule "baseballr"]
 	path = baseballr
 	url = https://github.com/billpetti/baseballr
-	shallow = true
-	registered = true
 [submodule "mlbplotR"]
 	path = mlbplotR
 	url = https://github.com/camdenk/mlbplotR
-	shallow = true
-	registered = true
 [submodule "softballR"]
 	path = softballR
 	url = https://github.com/sportsdataverse/softballR
-	shallow = true
-	registered = true
 [submodule "fastRhockey"]
 	path = fastRhockey
 	url = https://github.com/sportsdataverse/fastRhockey
-	shallow = true
-	registered = true
 [submodule "hockeyR"]
 	path = hockeyR
 	url = https://github.com/danmorse314/hockeyR
-	shallow = true
-	registered = true
 [submodule "sportyR"]
 	path = sportyR
 	url = https://github.com/sportsdataverse/sportyR
-	shallow = true
-	registered = true
 [submodule "worldfootballR"]
 	path = worldfootballR
 	url = https://github.com/jaseziv/worldfootballR
-	shallow = true
-	registered = true
 [submodule "soccerAnimate"]
 	path = soccerAnimate
 	url = https://github.com/Dato-Futbol/soccerAnimate
-	shallow = true
-	registered = true
 [submodule "nwslR"]
 	path = nwslR
 	url = https://github.com/nwslR/nwslR
-	shallow = true
-	registered = true
 [submodule "usfootballR"]
 	path = usfootballR
 	url = https://github.com/sportsdataverse/usfootballR
-	shallow = true
-	registered = true
 [submodule "oddsapiR"]
 	path = oddsapiR
 	url = https://github.com/sportsdataverse/oddsapiR
-	shallow = true
-	registered = true
 [submodule "chessR"]
 	path = chessR
 	url = https://github.com/jaseziv/chessR
-	shallow = true
-	registered = true
 [submodule "recruitR"]
 	path = recruitR
 	url = https://github.com/sportsdataverse/recruitR
-	shallow = true
-	registered = true
