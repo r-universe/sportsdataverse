@@ -2,63 +2,63 @@
 	path = .registry
 	url = https://github.com/sportsdataverse/universe
 	branch = HEAD
+[submodule "baseballr"]
+	path = baseballr
+	url = https://github.com/billpetti/baseballr
+[submodule "cfb4th"]
+	path = cfb4th
+	url = https://github.com/sportsdataverse/cfb4th
 [submodule "cfbfastR"]
 	path = cfbfastR
 	url = https://github.com/sportsdataverse/cfbfastR
 [submodule "cfbplotR"]
 	path = cfbplotR
 	url = https://github.com/sportsdataverse/cfbplotR
-[submodule "cfb4th"]
-	path = cfb4th
-	url = https://github.com/sportsdataverse/cfb4th
-[submodule "puntr"]
-	path = puntr
-	url = https://github.com/Puntalytics/puntr
-[submodule "hoopR"]
-	path = hoopR
-	url = https://github.com/sportsdataverse/hoopR
-[submodule "wehoop"]
-	path = wehoop
-	url = https://github.com/sportsdataverse/wehoop
-[submodule "gamezoneR"]
-	path = gamezoneR
-	url = https://github.com/jacklich10/gamezoneR
-[submodule "baseballr"]
-	path = baseballr
-	url = https://github.com/billpetti/baseballr
-[submodule "mlbplotR"]
-	path = mlbplotR
-	url = https://github.com/camdenk/mlbplotR
-[submodule "softballR"]
-	path = softballR
-	url = https://github.com/sportsdataverse/softballR
-[submodule "fastRhockey"]
-	path = fastRhockey
-	url = https://github.com/sportsdataverse/fastRhockey
-[submodule "hockeyR"]
-	path = hockeyR
-	url = https://github.com/danmorse314/hockeyR
-[submodule "sportyR"]
-	path = sportyR
-	url = https://github.com/sportsdataverse/sportyR
-[submodule "worldfootballR"]
-	path = worldfootballR
-	url = https://github.com/jaseziv/worldfootballR
-[submodule "soccerAnimate"]
-	path = soccerAnimate
-	url = https://github.com/Dato-Futbol/soccerAnimate
-[submodule "nwslR"]
-	path = nwslR
-	url = https://github.com/nwslR/nwslR
-[submodule "usfootballR"]
-	path = usfootballR
-	url = https://github.com/sportsdataverse/usfootballR
-[submodule "oddsapiR"]
-	path = oddsapiR
-	url = https://github.com/sportsdataverse/oddsapiR
 [submodule "chessR"]
 	path = chessR
 	url = https://github.com/jaseziv/chessR
+[submodule "fastRhockey"]
+	path = fastRhockey
+	url = https://github.com/sportsdataverse/fastRhockey
+[submodule "gamezoneR"]
+	path = gamezoneR
+	url = https://github.com/jacklich10/gamezoneR
+[submodule "hockeyR"]
+	path = hockeyR
+	url = https://github.com/danmorse314/hockeyR
+[submodule "hoopR"]
+	path = hoopR
+	url = https://github.com/sportsdataverse/hoopR
+[submodule "mlbplotR"]
+	path = mlbplotR
+	url = https://github.com/camdenk/mlbplotR
+[submodule "nwslR"]
+	path = nwslR
+	url = https://github.com/nwslR/nwslR
+[submodule "oddsapiR"]
+	path = oddsapiR
+	url = https://github.com/sportsdataverse/oddsapiR
+[submodule "puntr"]
+	path = puntr
+	url = https://github.com/Puntalytics/puntr
 [submodule "recruitR"]
 	path = recruitR
 	url = https://github.com/sportsdataverse/recruitR
+[submodule "soccerAnimate"]
+	path = soccerAnimate
+	url = https://github.com/Dato-Futbol/soccerAnimate
+[submodule "softballR"]
+	path = softballR
+	url = https://github.com/sportsdataverse/softballR
+[submodule "sportyR"]
+	path = sportyR
+	url = https://github.com/sportsdataverse/sportyR
+[submodule "usfootballR"]
+	path = usfootballR
+	url = https://github.com/sportsdataverse/usfootballR
+[submodule "wehoop"]
+	path = wehoop
+	url = https://github.com/sportsdataverse/wehoop
+[submodule "worldfootballR"]
+	path = worldfootballR
+	url = https://github.com/jaseziv/worldfootballR
