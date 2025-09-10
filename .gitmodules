@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cfbfastR"]
+	path = cfbfastR
+	url = https://github.com/sportsdataverse/cfbfastr
 [submodule "fastRhockey"]
 	path = fastRhockey
 	url = https://github.com/sportsdataverse/fastrhockey
