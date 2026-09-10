@@ -5,6 +5,9 @@
 [submodule "cfbfastR"]
 	path = cfbfastR
 	url = https://github.com/sportsdataverse/cfbfastr
+[submodule "cfbseedR"]
+	path = cfbseedR
+	url = https://github.com/sportsdataverse/cfbseedr
 [submodule "fastRhockey"]
 	path = fastRhockey
 	url = https://github.com/sportsdataverse/fastrhockey
