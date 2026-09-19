@@ -41,6 +41,9 @@
 [submodule "recruitR"]
 	path = recruitR
 	url = https://github.com/sportsdataverse/recruitR
+[submodule "sdvplotR"]
+	path = sdvplotR
+	url = https://github.com/sportsdataverse/sdvplotR
 [submodule "soccerAnimate"]
 	path = soccerAnimate
 	url = https://github.com/Dato-Futbol/soccerAnimate
