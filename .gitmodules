@@ -1,25 +1,61 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sportsdataverse/sportsdataverse.r-universe.dev
 	branch = HEAD
+[submodule "baseballr"]
+	path = baseballr
+	url = https://github.com/BillPetti/baseballr
+[submodule "cfb4th"]
+	path = cfb4th
+	url = https://github.com/sportsdataverse/cfb4th
 [submodule "cfbfastR"]
 	path = cfbfastR
-	url = https://github.com/sportsdataverse/cfbfastr
-[submodule "cfbseedR"]
-	path = cfbseedR
-	url = https://github.com/sportsdataverse/cfbseedr
+	url = https://github.com/sportsdataverse/cfbfastR
+[submodule "cfbplotR"]
+	path = cfbplotR
+	url = https://github.com/sportsdataverse/cfbplotR
+[submodule "chessR"]
+	path = chessR
+	url = https://github.com/JaseZiv/chessR
 [submodule "fastRhockey"]
 	path = fastRhockey
-	url = https://github.com/sportsdataverse/fastrhockey
+	url = https://github.com/sportsdataverse/fastRhockey
+[submodule "ggshakeR"]
+	path = ggshakeR
+	url = https://github.com/abhiamishra/ggshakeR
 [submodule "hoopR"]
 	path = hoopR
-	url = https://github.com/sportsdataverse/hoopr
+	url = https://github.com/sportsdataverse/hoopR
+[submodule "mlbplotR"]
+	path = mlbplotR
+	url = https://github.com/camdenk/mlbplotR
+[submodule "nwslR"]
+	path = nwslR
+	url = https://github.com/nwslR/nwslR
 [submodule "oddsapiR"]
 	path = oddsapiR
-	url = https://github.com/sportsdataverse/oddsapir
+	url = https://github.com/sportsdataverse/oddsapiR
+[submodule "puntr"]
+	path = puntr
+	url = https://github.com/Puntalytics/puntr
+[submodule "recruitR"]
+	path = recruitR
+	url = https://github.com/sportsdataverse/recruitR
+[submodule "soccerAnimate"]
+	path = soccerAnimate
+	url = https://github.com/Dato-Futbol/soccerAnimate
+[submodule "softballR"]
+	path = softballR
+	url = https://github.com/sportsdataverse/softballR
+[submodule "sportsdataverse"]
+	path = sportsdataverse
+	url = https://github.com/sportsdataverse/sportsdataverse-R
 [submodule "sportyR"]
 	path = sportyR
-	url = https://github.com/sportsdataverse/sportyr
+	url = https://github.com/sportsdataverse/sportyR
+[submodule "usfootballR"]
+	path = usfootballR
+	url = https://github.com/sportsdataverse/usfootballR
 [submodule "wehoop"]
 	path = wehoop
 	url = https://github.com/sportsdataverse/wehoop
