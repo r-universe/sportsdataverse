@@ -14,6 +14,9 @@
 [submodule "cfbplotR"]
 	path = cfbplotR
 	url = https://github.com/sportsdataverse/cfbplotR
+[submodule "cfbseedR"]
+	path = cfbseedR
+	url = https://github.com/sportsdataverse/cfbseedR
 [submodule "chessR"]
 	path = chessR
 	url = https://github.com/JaseZiv/chessR
